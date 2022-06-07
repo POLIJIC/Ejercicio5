@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE listacompras SYSTEM "Ejercicio5.dtd">
+<listacompras>
+    <venta>
+        <ventaacredito>
+            <fechafinpago>25/12/2020</fechafinpago>
+            <cantidad>1</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <cantidad>1</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>1000000</cantidad>
+            <divisa>cop</divisa>
+        </ventainmediata>
+    </venta>
+</listacompras>
